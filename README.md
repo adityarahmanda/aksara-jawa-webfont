@@ -8,7 +8,7 @@ Kode CSS
 
 ```css
 @font-face {
-    font-family: 'nyk_ngayogyan_newregular';
+    font-family: 'ngayogyan';
     src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/ngayogyan.woff2') format('woff2'),
          url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/ngayogyan.woff') format('woff');
     font-weight: normal;
