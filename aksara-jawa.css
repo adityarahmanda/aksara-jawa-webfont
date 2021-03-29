@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'ngayogyan';
-    src: url('ngayogyan.woff2') format('woff2'),
-        url('ngayogyan.woff') format('woff');
+    src: url('https://rawcdn.githack.com/adityarahmanda/aksara-jawa-webfont/ca5c94fb6e2b52f4853166c1a713b44ea0db3704/ngayogyan.woff2') format('woff2'),
+        url('https://rawcdn.githack.com/adityarahmanda/aksara-jawa-webfont/ca5c94fb6e2b52f4853166c1a713b44ea0db3704/ngayogyan.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
