@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ngayogyan';
+    src: url('ngayogyan.woff2') format('woff2'),
+        url('ngayogyan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
