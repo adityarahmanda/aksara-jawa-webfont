@@ -2,8 +2,18 @@
 
 Berbagai webfont untuk aksara jawa
 
-***Link file stylesheet berikut ***
+***Ngayogyan Font ***
 
-```html
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/aksara-jawa.css">
+Masukkan kode berikut ke dalam css anda
+```css
+/* Ngayogyan Font oleh Apri Nugroho */
+@font-face {
+    font-family: 'ngayogyan';
+    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/ngayogyan.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/ngayogyan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 ```
+
+
