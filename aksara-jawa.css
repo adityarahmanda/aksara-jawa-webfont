@@ -1,8 +1,18 @@
 /* Ngayogyan Font oleh Apri Nugroho */
 @font-face {
     font-family: 'ngayogyan';
-    src: url('https://rawcdn.githack.com/adityarahmanda/aksara-jawa-webfont/ca5c94fb6e2b52f4853166c1a713b44ea0db3704/ngayogyan.woff2') format('woff2'),
-        url('https://rawcdn.githack.com/adityarahmanda/aksara-jawa-webfont/ca5c94fb6e2b52f4853166c1a713b44ea0db3704/ngayogyan.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/ngayogyan.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/ngayogyan.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
+
+/* Amukti Palapa Font oleh Team Prada */
+@font-face {
+    font-family: 'amukti palapa';
+    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
