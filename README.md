@@ -4,18 +4,6 @@ Berbagai webfont untuk aksara jawa
 
 Masukkan kode berikut ke dalam css anda
 
-**Amukti Palapa Font**
-```css
-/* Amukti Palapa Font oleh Team Prada */
-@font-face {
-    font-family: 'amuktipalapa';
-    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-```
-
 **Ngayogyan Font**
 ```css
 /* Ngayogyan Font oleh Apri Nugroho */
@@ -23,6 +11,21 @@ Masukkan kode berikut ke dalam css anda
     font-family: 'ngayogyan';
     src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/ngayogyan.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/ngayogyan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+**Amukti Palapa Font**
+
+*Font ini mengikuti aturan tulisan mardikawi
+
+```css
+/* Amukti Palapa Font oleh Team Prada */
+@font-face {
+    font-family: 'amuktipalapa';
+    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
