@@ -8,7 +8,7 @@ Masukkan kode berikut ke dalam css anda
 ```css
 /* Amukti Palapa Font oleh Team Prada */
 @font-face {
-    font-family: 'amukti palapa';
+    font-family: 'amuktipalapa';
     src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff') format('woff');
     font-weight: normal;
