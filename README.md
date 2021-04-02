@@ -16,6 +16,18 @@ Masukkan kode berikut ke dalam css anda
 }
 ```
 
+**Ngayogyan Font**
+```css
+/* Ngayogyan Jejeg Font oleh Apri Nugroho */
+@font-face {
+    font-family: 'ngayogyan-jejeg';
+    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/ngayogyan-jejeg.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/ngayogyan-jejeg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
 **Amukti Palapa Font**
 
 *Font ini mengikuti aturan tulisan mardikawi
