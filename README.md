@@ -16,7 +16,7 @@ Masukkan kode berikut ke dalam css anda
 }
 ```
 
-**Ngayogyan Font**
+**Ngayogyan Jejeg Font**
 ```css
 /* Ngayogyan Jejeg Font oleh Apri Nugroho */
 @font-face {
