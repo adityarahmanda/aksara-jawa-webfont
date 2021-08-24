@@ -1,8 +1,6 @@
 # Web font aksara jawa
 
-Berbagai webfont untuk aksara jawa
-
-Masukkan kode berikut ke dalam css anda
+Berbagai webfont aksara jawa. Untuk menggunakan webfont, masukkan script berikut ke dalam css anda :
 
 **Ngayogyan Font**
 ```css
@@ -23,6 +21,18 @@ Masukkan kode berikut ke dalam css anda
     font-family: 'ngayogyan-jejeg';
     src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/ngayogyan-jejeg.woff2') format('woff2'),
         url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/ngayogyan-jejeg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+**Nawatura Font**
+```css
+/* Nawatura Beta Font oleh Aditya Bayu */
+@font-face {
+    font-family: 'nawatura-beta';
+    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/nawatura-beta.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/nawatura-beta.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }

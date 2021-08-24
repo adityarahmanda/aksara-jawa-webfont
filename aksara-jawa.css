@@ -16,6 +16,15 @@
     font-style: normal;
 }
 
+/* Nawatura Beta Font oleh Aditya Bayu */
+@font-face {
+    font-family: 'nawatura-beta';
+    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/nawatura-beta.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/nawatura-beta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* Amukti Palapa Font oleh Team Prada */
 @font-face {
     font-family: 'amuktipalapa';
