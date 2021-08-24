@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 800 40" width="800" height="40" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+			/* Nawatura Beta Font oleh Aditya Bayu */
+			@font-face {
+				font-family: 'Nawatura Beta';
+				src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/nawatura-beta.woff2') format('woff2'),
+					url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/nawatura-beta.woff') format('woff');
+				font-weight: normal;
+				font-style: normal;
+			}
+			
+			.container {
+				font-family: 'Nawatura Beta';
+				width: 100%;
+				height: 40px;
+				margin: 0;
+				color: #c9d1d9;
+			}
+			
+			p {
+				margin: 0;
+			}
+			</style>
+			<div class="container">
+				<p>꧊꧊ꦲꦶꦁꦔꦂꦱꦱꦸꦁꦠꦸꦭꦝ꧈ ꦲꦶꦁꦩꦢꦾꦩꦔꦸꦤ꧀ꦏꦂꦱ꧈ ꦠꦸꦠ꧀ꦮꦸꦫꦶꦲꦤ꧀ꦢꦪꦤꦶ꧉ - Ki Hajar Dewantara</p>
+			</div>
+		</div>
+	</foreignObject>
+</svg>

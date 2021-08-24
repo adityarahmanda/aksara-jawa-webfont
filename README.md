@@ -1,53 +1,54 @@
-# Web font aksara jawa
+# Webfonts Aksara Jawa
 
 Berbagai webfont aksara jawa. Untuk menggunakan webfont, masukkan script berikut ke dalam css anda :
 
 **Ngayogyan Font**
+<img src="demos/ngayogyan-demo.svg" width="800" height="40" alt="Ngayogyan Demo">
 ```css
 /* Ngayogyan Font oleh Apri Nugroho */
 @font-face {
-    font-family: 'ngayogyan';
-    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/ngayogyan.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/ngayogyan.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+	font-family: 'Ngayogyan';
+	src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/ngayogyan.woff2') format('woff2'),
+		url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/ngayogyan.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
 }
 ```
 
 **Ngayogyan Jejeg Font**
+<img src="demos/ngayogyan-jejeg-demo.svg" width="800" height="40" alt="Ngayogyan Jejeg Demo">
 ```css
 /* Ngayogyan Jejeg Font oleh Apri Nugroho */
 @font-face {
-    font-family: 'ngayogyan-jejeg';
-    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/ngayogyan-jejeg.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/ngayogyan-jejeg.woff') format('woff');
+    font-family: 'Ngayogyan Jejeg';
+    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/ngayogyan-jejeg.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/ngayogyan-jejeg.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 ```
 
 **Nawatura Font**
+<img src="demos/nawatura-beta-demo.svg" width="800" height="40" alt="Nawatura Beta Demo">
 ```css
 /* Nawatura Beta Font oleh Aditya Bayu */
 @font-face {
-    font-family: 'nawatura-beta';
-    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/nawatura-beta.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/nawatura-beta.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+	font-family: 'Nawatura Beta';
+	src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/nawatura-beta.woff2') format('woff2'),
+		url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/nawatura-beta.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
 }
 ```
 
 **Amukti Palapa Font**
-
-*Font ini mengikuti aturan tulisan mardikawi
-
+<img src="demos/amukti-palapa-demo.svg" width="800" height="40" alt="Amukti Palapa Demo">
 ```css
 /* Amukti Palapa Font oleh Team Prada */
 @font-face {
-    font-family: 'amuktipalapa';
-    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/fonts/amuktipalapa.woff') format('woff');
+    font-family: 'Amukti Palapa';
+    src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/amukti-palapa.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/amukti-palapa.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
