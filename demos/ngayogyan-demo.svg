@@ -6,7 +6,7 @@
 			@font-face {
 				font-family: 'Ngayogyan';
 				src: url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/ngayogyan.woff2') format('woff2'),
-					url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/ngayogyan.woff') format('woff');
+					 url('https://raw.githubusercontent.com/adityarahmanda/aksara-jawa-webfont/main/webfonts/ngayogyan.woff') format('woff');
 				font-weight: normal;
 				font-style: normal;
 			}
@@ -20,6 +20,7 @@
 			}
 			
 			p {
+				font-size: 18px;
 				margin: 0;
 			}
 			</style>
